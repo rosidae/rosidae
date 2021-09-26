@@ -2,6 +2,7 @@
 
 
 ![hello](https://img.shields.io/badge/Rosidae-says%20hello!-brightgreen)
+![stats](https://github-readme-stats.vercel.app/api?username=rosidae)
 
 
 - who am i?
