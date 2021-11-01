@@ -24,3 +24,5 @@
       - quadeca
    - favourite song
       - life - saba  
+   - favourite album
+      - ta13oo - denzel curry 
