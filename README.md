@@ -12,3 +12,15 @@
     - c++ is my favourite language
     - i am learning c++ still
     - javascript is second favourite language
+  - favourite artist
+    - i have too many
+      - slowthai
+      - j.i.d
+      - pop smoke
+      - denzel curry
+      - night lovell
+      - earl sweatshirt
+      - cochise
+      - quadeca
+   - favourite song
+      - life - saba  
