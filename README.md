@@ -1,5 +1,6 @@
 # rosidae
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rosidae+Says+Hello!;Rosidae+is+a+software+developer;Rosidae+is+lazy;Rosidae+codes+as+a+hobby)](https://git.io/typing-svg)
 
 ![hello](https://img.shields.io/badge/Rosidae-says%20hello!-brightgreen)
 
