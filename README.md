@@ -15,15 +15,13 @@
     - javascript is second favourite language
   - favourite artist
     - i have too many
-      - slowthai
-      - j.i.d
-      - pop smoke
+      - jid
       - denzel curry
-      - night lovell
-      - earl sweatshirt
-      - cochise
-      - quadeca
+      - kendrick lamar
+      - logic
+      - playboi carti
+      - pop smoke
    - favourite song
-      - life - saba  
+      - king kunta - kendrick lamar 
    - favourite album
       - ta13oo - denzel curry 
