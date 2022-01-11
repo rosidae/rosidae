@@ -14,14 +14,9 @@
     - i am learning c++ still
     - javascript is second favourite language
   - favourite artist
-    - i have too many
-      - jid
-      - denzel curry
       - kendrick lamar
-      - logic
-      - playboi carti
-      - pop smoke
    - favourite song
-      - king kunta - kendrick lamar 
+      - good kid - kendrick lamar 
    - favourite album
-      - ta13oo - denzel curry 
+      - tpab - kendrick lamar
+      - gkmc - kendrick lamar
