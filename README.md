@@ -7,16 +7,34 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=rosidae&theme=gotham)
 
 
-- who am i?
-  - i am a programmer currently learning the concepts of c++ development and working on rosidae/cfx and rosidae/utl
+- Rosidae
   - trivia about me
     - c++ is my favourite language
-    - i am learning c++ still
-    - javascript is second favourite language
-  - favourite artist
+    - i am chess player
+    - i am music maker
+  - favourite artists
+      - rex orange county
+      - joji
+      - nardo wick
       - kendrick lamar
-   - favourite song
-      - good kid - kendrick lamar 
-   - favourite album
+      - comethazine
+      - denzel curry
+   - favourite songs
+      - good kid - kendrick lamar
+      - glimpse of us - joji
+      - six flags - comethazine
+      - yeah right - joji
+      - slow dancing in the dark - joji
+      - why - nardo wick
+      - nowhere to run - brennan savage
+      - insurrection - killstation
+      - consanguinity - killstation
+      - top dawg - funeral
+      - dead trollz - nba youngboy
+   - favourite albums
+      - taboo - denzel curry
+      - bbtm - the weeknd
       - tpab - kendrick lamar
       - gkmc - kendrick lamar
+      - mmatbs - kendrick lamar
+      - fmty - quadeca
